@@ -19,6 +19,7 @@ OR
 - open index.html in your browser.
 
 ## Repo Link:
-
+    https://github.com/sumbul03/To-Do-List.git
 
 ## Live Link:
+    https://sumbul03.github.io/To-Do-List/
